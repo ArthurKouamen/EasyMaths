@@ -11,7 +11,7 @@ package application;
 
 import java.util.Scanner;
 
-public class calculatrice {
+public class Calculatrice {
 
     //debut du programme
 
@@ -187,7 +187,7 @@ public class calculatrice {
 
     //fonction tri qui sevira a choisir le tri souhaité
     public static void tri(Scanner sc) {
-        int choix2 = 0;
+        int choix = 0;
         String nom = sc.nextLine();
         System.out.println("Quel type de tri souhaitez vous faire ?");
 

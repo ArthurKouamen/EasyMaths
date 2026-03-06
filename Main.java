@@ -1,12 +1,12 @@
 package application;
 
-import application.calculatrice;
+import application.Calculatrice;
 
 
 public class Main {
     public static void main(String[] args) {
 
-        calculatrice.corpsDuProgramme();
+        Calculatrice.corpsDuProgramme();
         
     }
     
