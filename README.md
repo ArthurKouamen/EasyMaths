@@ -2,7 +2,7 @@
 Mini application java qui joue le rôle d’une calculatrice 
 afin de nous faciliter les calculs 
 
-Calcify is a lightweight Java-based calculator application designed to perform basic and advanced mathematical operations. It features a simple and intuitive interface, fast computations, and a clean architecture ideal for learning and practice.
+EasyMaths is a lightweight Java-based calculator application designed to perform basic and advanced mathematical operations. It features a simple and intuitive interface, fast computations, and a clean architecture ideal for learning and practice.
 
 🔧 Features:
 - Basic operations (addition, subtraction, multiplication, division)
